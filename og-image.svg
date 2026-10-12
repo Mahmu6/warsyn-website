@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#7C5CFF"/></linearGradient><radialGradient id="glow"><stop stop-color="#7C5CFF" stop-opacity=".22"/><stop offset="1" stop-color="#0A1224" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="630" fill="#0A1224"/><ellipse cx="1000" cy="300" rx="370" ry="310" fill="url(#glow)"/>
+  <path d="m83 92 15 36 12-25 12 25 15-36M83 92h14m26 0h14" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="174" y="121" fill="#F6F4EF" font-family="Arial, sans-serif" font-size="31" font-weight="700" letter-spacing="6">WARSYN</text>
+  <text x="84" y="263" fill="#F6F4EF" font-family="Arial, sans-serif" font-size="58" font-weight="700">AI automation, cloud set-up</text>
+  <text x="84" y="337" fill="#F6F4EF" font-family="Arial, sans-serif" font-size="58" font-weight="700">and IT consultancy</text>
+  <text x="87" y="405" fill="#C5CDDB" font-family="Arial, sans-serif" font-size="27">Remote services for businesses across the UAE</text>
+  <path d="M84 486h1032" stroke="url(#g)" stroke-width="2" opacity=".75"/>
+  <text x="87" y="540" fill="#C5CDDB" font-family="Arial, sans-serif" font-size="21" letter-spacing="2">ABU DHABI · UNITED ARAB EMIRATES</text>
+</svg>
